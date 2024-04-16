@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Blackpink - The Album ",
+        "artista": "Blackpink",
+        "price": 400,
+        "img": "https://ishopmx.vtexassets.com/arquivos/ids/192426/602435042589.jpg?v=637944188302770000",
+        "quanty": 1
+    },
+
+    {
+        "id": 2,
+        "name": "Twice -  Ready To Be",
+        "artista": "Twice",
+        "price": 450,
+        "img": "https://i.scdn.co/image/ab67616d00001e026997d60d0d2319c7a2a7025b",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "2NE1 - Crush",
+        "artista": "2NE1",
+        "price": 350,
+        "img": "https://i.discogs.com/dFhzLc2iXkOkVLXAW8Z3-DXc5p7cQQ2rwt5sklRTcd4/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDgz/ODYtMTQ0NTg5MTIy/Ny03MDcyLmpwZWc.jpeg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "Red Velvet - Chill Kill",
+        "artista": "Red Velvet",
+        "price": 450,
+        "img": "https://images.genius.com/cf401c4799bc75132899b60037e8e3e6.300x300x1.png",
+        "quanty": 1
+    },
+    {
+        "id": 5,
+        "name": "Red Velvet - The Red",
+        "artista": "Red Velvet",
+        "price": 350,
+        "img": "https://www.kpoprepublic.com/cdn/shop/products/redvelvet-thered-2_300x300.jpg?v=1655485926",
+        "quanty": 1
+    },
+    {
+        "id": 6,
+        "name": "Blackpink - Born Pink",
+        "artista": "Blackpink",
+        "price": 500,
+        "img": "https://www.lahiguera.net/musicalia/artistas/blackpink/disco/12362/portada-m.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 7,
+        "name": "(G)i-dle - I Never Die",
+        "artista": "(G)i-dle",
+        "price": 400,
+        "img": "https://i.scdn.co/image/ab67616d00001e02c7b6b2976e38a802eebff046",
+        "quanty": 1
+    },
+    {
+        "id": 8,
+        "name": "(G)i-dle - I Love",
+        "artista": "(G)i-dle",
+        "price": 450,
+        "img": "https://i.scdn.co/image/ab67616d00001e02ac815bdd584468a7aa0216e1",
+        "quanty": 1
+    },
+    {
+        "id": 9,
+        "name": "Twice - Summer Nights",
+        "artista": "Twice",
+        "price": 300,
+        "img": "https://i.scdn.co/image/ab67616d00001e0240d7efd2594a2b6bda60ea18",
+        "quanty": 1
+    }
+]
